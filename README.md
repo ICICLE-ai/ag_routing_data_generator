@@ -1,6 +1,9 @@
 # Agricultural Routing Synthetic Data Generation
 
-This repository provides a script to generate synthetic routing data for agricultural use cases. It produces two CSV files:
+This repository provides a python script to generate synthetic location and vehicle data (csv files) for developers and researchers aiming to model and solve agricultural logistics problems such as:
+- Vehicle Routing Problem (VRP)
+- Traveling Salesman Problem (TSP)
+- Network Design Problem
 
 # Explanation
 

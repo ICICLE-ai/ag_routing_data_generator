@@ -1,5 +1,5 @@
 # Agricultural Routing Synthetic Data Generation
-
+- Food-Access
 This repository provides a python script to generate synthetic location and vehicle data (csv files) for developers and researchers aiming to model and solve agricultural logistics problems such as:
 - Vehicle Routing Problem (VRP)
 - Traveling Salesman Problem (TSP)
@@ -61,3 +61,12 @@ Follow these steps in order to clone the repository, set up your environment, in
 - --locations_output: Output filename for locations.csv.
 
 - --vehicles_output: Output filename for vehicles.csv.
+
+## License
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+## References
+Erdoğan, G. (2017) An opensource spreadsheet solver for vehicle routing problems. Computers and Operations Research. http://dx.doi.org/10.1016/j.cor.2017.02.022
+
+## Acknowledgements
+This work has been funded by the National Science Foundation, ICICLE AI Institute (OAC 2112606). Thanks to colleagues at Georgia Institute of Technology, the University of Wisconsin Madison and The Ohio State University for their work on this data generator. 

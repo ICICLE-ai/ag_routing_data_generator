@@ -1,0 +1,28 @@
+- id: ag_routing_data_generator
+  name: Agricultural Routing Synthetic Data Generation
+  status: ProductionRelease
+  website: https://github.com/ICICLE-ai/ag_routing_data_generator
+  description: This repository provides a python script to generate synthetic location and vehicle data (csv files) for developers and researchers aiming to train ML Models.
+  owner: Michelle Miller
+  primaryThrust: useInspired/SF
+  sourceCodeUrl: https://github.com/ICICLE-ai/ag_routing_data_generator
+  targetIcicleRelease: 2025-07
+  componentVersion: 0.1.0
+  licenseUrl: https://github.com/ICICLE-ai/ag_routing_data_generator?tab=GPL-3.0-1-ov-file
+  releaseNotesUrl:
+  doi:
+  citation: Michelle Miller, Rosemarie Santa Gonzalez
+  pypiPackage:
+  containerImage:
+  codeReviewConducted: true
+  testsWritten: false
+  securityReviewConducted: false
+  biasAssessmentConducted: false
+  usageDocumentationAvailable: true
+  usageDocumentationUrl: https://github.com/ICICLE-ai/ag_routing_data_generator/blob/main/README.md
+  developerDocumentationAvailable: true
+  developerDocumentationUrl:
+  trainingTutorialsAvailable: True
+  trainingTutorialsUrl: https://icicle-ai.github.io/training-catalog/docs/category/agricultural-routing-synthetic-data-generation-2
+  usageMetricsCollected: false
+  publicAccess: true

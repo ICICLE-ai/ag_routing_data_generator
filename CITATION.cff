@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "ag_routing_data_generator"
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: Vyas
+    given-names: Amit
+  - family-names:  Gonzalez
+    given-names: Rosemarie S.
+  - family-names: Miller
+    given-names:  Michelle
+  - name: ICICLE AI Institute
+version: 0.1.1
+doi: 10.5281/zenodo.18202919
+date-released: 2025-01-06
+url: https://github.com/ICICLE-ai/ag_routing_data_generator

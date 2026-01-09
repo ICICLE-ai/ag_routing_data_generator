@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/996945859.svg)](https://doi.org/10.5281/zenodo.18202919)
+
 # Agricultural Routing Synthetic Data Generation
 - Food-Access
 
@@ -65,6 +67,13 @@ Follow these steps in order to clone the repository, set up your environment, in
 
 ## License
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+
+## Citation
+If you use this software or generated data in academic work, please cite:
+
+Vyas, A., ICICLE AI Institute. *ag_routing_data_generator*. Zenodo.  
+DOI: https://doi.org/10.5281/zenodo.18202919
 
 ## References
 Erdoğan, G. (2017) An opensource spreadsheet solver for vehicle routing problems. Computers and Operations Research. http://dx.doi.org/10.1016/j.cor.2017.02.022
